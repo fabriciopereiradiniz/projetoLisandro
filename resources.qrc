@@ -1,0 +1,13 @@
+<RCC>
+  <qresource>
+    <file>icons/cadastro_icon_blue.png</file>
+    <file>icons/cadastro_icon_white.png</file>
+    <file>icons/integracoes_icon_blue.png</file>
+    <file>icons/integracoes_icon_white.png</file>
+    <file>icons/logo_icon.png</file>
+    <file>icons/processos_icon_blue.png</file>
+    <file>icons/processos_icon_white.png</file>
+    <file>icons/relatorios_icon_blue.png</file>
+    <file>icons/relatorios_icon_white.png</file>
+  </qresource>
+</RCC>
